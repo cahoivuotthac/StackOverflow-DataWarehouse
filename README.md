@@ -1,7 +1,7 @@
 ## 1. Giới thiệu 
 - Tên môn học: Kho dữ liệu và OLAP 
 - Mã lớp: IS217.P13
-- Tên đồ án: Phân tích xu hướng công nghệ và thị trường việc làm trong lĩnh vực CNTT từ dữ liệu khảo sát thường niên trên trang Stack Overflow
+- Tên đồ án: Phân tích xu hướng công nghệ và thị trường việc làm trong lĩnh vực CNTT từ dữ liệu khảo sát trên trang Stack Overflow
 ## 2. Dataset
 - Nguồn: https://survey.stackoverflow.co/
 - Chọn dữ liệu của 6 năm gần nhất – từ 2019 đến 2024 để tổng hợp và phân tích
